@@ -1,5 +1,9 @@
-streamlit
-pandas
-numpy
-gspread
-google-auth
+streamlit>=1.40
+
+pandas>=2.0
+
+numpy>=1.26
+
+gspread>=6.0,<7
+
+google-auth>=2.0
